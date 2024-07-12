@@ -1,6 +1,6 @@
 # Сергей Львов, 17+ когорта — Финальный проект. Инженер по тестированию плюс
 
-import request
+import send_request
 import data
 
 def test_get_order_info_by_track():

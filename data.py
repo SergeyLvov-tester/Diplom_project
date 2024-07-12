@@ -8,7 +8,7 @@ order_body = {
     "address": "г. Москва, Красная площадь, Кремль, 1",
     "metroStation": 4,
     "phone": "+7 999 999 99 99",
-    "rentTime": 5,
+    "rentTime": 4,
     "deliveryDate": "2024-14-07",
     "comment": "Быстрее, метнись кабанчиком, пивас стынет!!!",
     "color": [
